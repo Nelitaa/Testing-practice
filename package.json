@@ -1,0 +1,22 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "task1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nelitaa/Testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nelitaa/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/Nelitaa/Testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.3.0"
+  }
+}
